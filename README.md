@@ -18,9 +18,15 @@ A simple Flutter UI prototype for a fundraising intern dashboard — no backend,
 
 ## 📷 Screenshots
 
-_Add screenshots here if needed._
+### 🔐 Login Page
+![Login](screenshots/login_page.png)
 
----
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🏆 Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
+
 
 ## 🛠️ Tech Stack
 
