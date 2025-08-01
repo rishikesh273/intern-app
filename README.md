@@ -1,6 +1,6 @@
-# 🧑‍💻 Fundraising Intern Portal (Flutter)
+# 🧑‍💻  Intern Project (Flutter)
 
-A simple Flutter UI prototype for a fundraising intern dashboard — no backend, only mock data.
+A simple Flutter UI prototype to Build a Basic Flutter Intern Dashboard App— no backend, only mock data.
 
 ## 📱 Features
 
